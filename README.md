@@ -2,13 +2,13 @@
   <h1>👋 Hi, I’m Bogdan.</h1>
   <img src="https://c.tenor.com/Dhrbmr_t3tEAAAAM/forrest-gump-hello.gif" alt="hi">
 
-  <h2>👀 I’m a Data Engineer / Web Developer </h2>
+  <h2>👀 I’m a Data Engineer / Data Analyst / Data Scientist</h2>
   <h2>:brain: Everyday learner</h2>
   <h2>:soccer: Big football fan</h2>
   <h2>:muscle: Gym enthusiast</h2>
 
   <h2>📫 How to reach me:</h2>
-  <a href="https://www.linkedin.com/in/bogdan-topalov/">
+  <a href="https://www.linkedin.com/in/bogdan-topalov">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
