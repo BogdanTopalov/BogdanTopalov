@@ -7,7 +7,7 @@
   <h2>:soccer: Big football fan</h2>
   <h2>:muscle: Gym enthusiast</h2>
 
-  <h2>📫 How to reach me:</h2>
+  <h2>📫 Reach me on:</h2>
   <a href="https://www.linkedin.com/in/bogdan-topalov">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
